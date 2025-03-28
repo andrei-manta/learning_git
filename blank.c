@@ -1,5 +1,6 @@
 int main()
 {
-  //placeholder
+  second_func_call();
+  
   return 0;
 }
