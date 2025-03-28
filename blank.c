@@ -10,6 +10,8 @@ int main()
   
   fifth_func_call();
 
+  sixth_func_call();
+
   seventh_func_call();
   
   return 0;
