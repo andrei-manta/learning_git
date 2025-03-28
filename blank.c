@@ -9,6 +9,8 @@ int main()
   fourth_func_call();
   
   fifth_func_call();
+
+  seventh_func_call();
   
   return 0;
 }
