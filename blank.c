@@ -1,5 +1,6 @@
 int main()
 {
-  //placeholder
+  func_call();
+  
   return 0;
 }
